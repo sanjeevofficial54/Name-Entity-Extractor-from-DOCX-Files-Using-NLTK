@@ -5,9 +5,9 @@ Document Loading: Automatically loads multiple Word (.docx) files and extracts t
 Named Entity Recognition (NER): Leverages NLTK's ne_chunk, pos_tag, and word_tokenize to perform Named Entity Recognition for organization names.
 Error Handling: Implements robust error handling to manage potential issues with loading and processing document files.
 Organization Extraction: Extracts unique and sorted organization names from text data and outputs them for further analysis.
+
 Use Case
 This project can be applied in scenarios where users need to process a large volume of documents to extract organization names, such as:
-
 Competitive analysis for market research
 Analyzing partnership networks or company mentions in industry reports
 Automated data extraction from legal or financial documents
